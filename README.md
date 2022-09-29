@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://your-solution-url.com)
+- [Live site](https://cr1deg0.github.io/Sunnyside-agency-landing-page/)
 
 ## My process
 
@@ -48,7 +48,7 @@ It has challenged me also to look for solutions on how to implement underlines w
 
 ### Useful resources
 
-- [Shapes with CSS](https://css-tricks.com/the-shapes-of-css/) - This CSS tricks article shows how to create the triangular shape on top of the mobile menu
+- [CSS_Tricks: The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - This CSS tricks article shows how to create the triangular shape on top of the mobile menu
 - [https://sharkcoder.com/visual/underline](https://www.example.com)  - examples on how to implement underlines.
 
 
