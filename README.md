@@ -46,10 +46,13 @@ My solution contains two layout designs, one for laptop and one for mobile, howe
 
 It has challenged me also to look for solutions on how to implement underlines with CSS pseudo-elements and how to implemet hover and active states on them.
 
+- How to use icons as links and make them accessible (social media icons in the footer).
+
 ### Useful resources
 
 - [CSS_Tricks: The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/) - This CSS tricks article shows how to create the triangular shape on top of the mobile menu
 - [https://sharkcoder.com/visual/underline](https://www.example.com)  - examples on how to implement underlines.
+- [Accessible icon links](https://kittygiraudel.com/2020/12/10/accessible-icon-links/)
 
 
 ## Author
